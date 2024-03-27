@@ -1,0 +1,10 @@
+###### REGISTRO DO ENSAIO ######
+
+Realizado em 21-10-2023 com início às 08:23:55 
+
+IDUT[A] / arquivo de leitura                             / VPJVS[V] / CSU[V]  / Tini[°C] / Tfin[°C] / Uabs [A] / Icalc [A]
+  2.0 uA  / 4810002_tap2_10_LOG_Wesley.xls  / 180.20035144 uV / 20.9 nV / 23.001 °C / 23.001 °C / 409.7 pA / 1.8020624 uA /
+ 26.5 uA  / 4810002_tap2_10_LOG_Wesley.xls  / 180.20035145 uV / 20.1 nV / 23.002 °C / 23.002 °C / 394.01 pA / 1.8020624 uA /
+ 51.0 uA  / 4810002_tap2_10_LOG_Wesley.xls  / 180.20035146 uV / 20.11 nV / 23.003 °C / 23.003 °C / 394.21 pA / 1.8020624 uA /
+ 75.5 uA  / 4810002_tap2_10_LOG_Wesley.xls  / 180.20035147 uV / 20.12 nV / 23.004 °C / 23.004 °C / 394.41 pA / 1.8020624 uA /
+ 93.0005 uA  / 4810002_tap2_10_LOG_Wesley.xls  / 180.20035148 uV / 20.13 nV / 23.005 °C / 23.005 °C / 394.6 pA / 1.8020624 uA /
